@@ -7,7 +7,8 @@
     "dev": "now dev",
     "build": "tsc",
     "now-build": "tsc",
-    "watch": "tsc --watch"
+    "watch": "tsc --watch",
+    "prod": "now --target production"
   },
   "license": "MIT",
   "dependencies": {
