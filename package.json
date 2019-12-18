@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Generate an open graph image for twitter/facebook/etc",
   "main": "dist/card.js",
+  "engines" : { "node" : "12.13.1" },
   "scripts": {
     "dev": "now dev",
     "build": "tsc",
