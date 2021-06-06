@@ -17,11 +17,11 @@
   "dependencies": {
     "chrome-aws-lambda": "2.1.1",
     "puppeteer-core": "2.1.0",
-    "marked": "0.8.0",
+    "marked": "2.0.7",
     "twemoji": "12.1.5"
   },
   "devDependencies": {
-    "@types/marked": "0.7.2",
+    "@types/marked": "2.0.3",
     "@types/puppeteer-core": "2.0.0",
     "typescript": "3.7.5"
   }
